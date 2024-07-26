@@ -1,0 +1,4 @@
+train: /content/gdrive/MyDrive/OnionDetection/train
+val: /content/gdrive/MyDrive/OnionDetection/val
+nc: 2
+names: ["onion", "garlic"]
